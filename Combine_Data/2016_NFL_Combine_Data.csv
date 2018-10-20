@@ -1,0 +1,333 @@
+Year,Player,College,Position,Grade,Height,Arm Length,Weight,Hands,40 Yard Dash,Bench Press,Vertical Jump,Broad Jump,Three Cone Drill,20 Yard Shuttle,60 Yard Shuttle
+2016,Jared Goff,California,QB,6.73,76,32.75,215,9,4.82,,27,110,7.17,,
+2016,Paxton Lynch,Memphis,QB,6.49,79,34.25,244,10.25,4.86,,36,118,7.14,,
+2016,Carson Wentz,North Dakota State,QB,6.23,77,33.25,237,10,4.77,,30.5,118,6.86,,
+2016,Connor Cook,Michigan State,QB,5.85,76,33,217,9.75,4.79,,33,113,7.21,,
+2016,Christian Hackenberg,Penn State,QB,5.61,76,32,223,9,4.78,,31,114,7.04,,
+2016,Jacoby Brissett,North Carolina State,QB,5.5,76,32.25,231,9.75,4.94,,31,113,7.17,,
+2016,Cardale Jones,Ohio State,QB,5.44,77,33.75,253,9.75,4.81,,36,,,,
+2016,Cody Kessler,USC,QB,5.41,73,32.625,220,10.875,4.89,,29.5,104,7.32,,
+2016,Brandon Allen,Arkansas,QB,5.39,73,31.25,217,8.875,4.84,,28,110,7.06,,
+2016,Dak Prescott,Mississippi State,QB,5.38,74,32.25,226,10.875,4.79,,32.5,116,7.11,,
+2016,Nate Sudfeld,Indiana,QB,5.27,78,34.25,234,9.875,,,29,105,,,
+2016,Jeff Driskel,Louisiana Tech,QB,5.13,76,33.5,234,9.75,4.56,,32,122,7.19,,
+2016,Brandon Doughty,Western Kentucky,QB,5.11,75,32,213,9.125,5.22,,27,103,7.49,,
+2016,Joel Stave,Wisconsin,QB,5.08,77,33.25,236,10.75,4.8,,33.5,115,7.29,,
+2016,Kevin Hogan,Stanford,QB,5.06,75,32.375,218,10.25,4.78,,32.5,113,6.9,,
+2016,Trevone Boykin,TCU,QB,5,72,31.625,212,9.375,4.77,,32,110,,,
+2016,Vernon Adams,Oregon,QB,4.95,71,30.25,200,9.125,4.83,,29.5,114,6.82,,
+2016,Josh Woodrum,Liberty,QB,4.8,75,31.875,231,9.25,4.8,,31,117,6.74,,
+2016,Ezekiel Elliott,Ohio State,RB,7.2,72,31.25,225,10.25,4.47,,32.5,118,,,
+2016,Jordan Howard,Indiana,RB,6.16,72,32.25,230,9,,16,34,122,,,
+2016,Derrick Henry,Alabama,RB,6.15,75,33,247,8.75,4.54,22,37,130,7.2,4.38,11.5
+2016,Paul Perkins,UCLA,RB,5.76,70,31.625,208,9,4.54,19,32,124,,,
+2016,Alex Collins,Arkansas,RB,5.7,70,30.25,217,9.25,4.59,18,28.5,113,,,
+2016,Kenneth Dixon,Louisiana Tech,RB,5.69,70,31.375,215,9.5,4.58,18,37.5,121,6.97,4.28,11.5
+2016,Devontae Booker,Utah,RB,5.67,71,31.625,219,8.625,,22,,,,,
+2016,Jonathan Williams,Arkansas,RB,5.57,71,31.625,220,10,,16,,,,,
+2016,C.J. Prosise,Notre Dame,RB,5.55,72,32.125,220,8.5,4.48,,35.5,121,,,
+2016,Kenyan Drake,Alabama,RB,5.41,73,31.75,210,9.75,4.45,10,34.5,123,7.04,4.21,
+2016,Kelvin Taylor,Florida,RB,5.35,70,29.25,207,8.25,4.6,15,32,113,,,
+2016,Josh Ferguson,Illinois,RB,5.34,69,30,198,9,4.48,21,34.5,120,,,
+2016,Devon Johnson,Marshall,RB,5.31,72,31.25,238,9.25,,,,,,,
+2016,Keith Marshall,Georgia,RB,5.27,71,31.625,219,9.375,4.31,25,30.5,,,,
+2016,Marshaun Coprich,Illinois State,RB,5.25,68,29.625,207,9,4.47,17,34,112,7.26,4.58,12.09
+2016,Tra Carson,Texas A&M,RB,5.23,71,31.5,227,9.25,,19,,,,,
+2016,Peyton Barber,Auburn,RB,5.12,70,30.25,228,9.375,4.64,20,32.5,111,7,4.21,11.65
+2016,Wendell Smallwood,West Virginia,RB,5.12,70,30.5,208,9.25,4.47,14,33.5,120,6.83,4.28,11.14
+2016,Tyler Ervin,San Jose State,RB,5.11,70,29.75,192,9.125,4.41,17,39,130,,,
+2016,Daniel Lasco,California,RB,5,72,32,209,9.125,4.46,23,41.5,135,7.22,4.26,11.31
+2016,Tre Madden,USC,RB,5,72,29.75,223,9.375,,24,,,,,
+2016,DeAndre Washington,Texas Tech,RB,4.95,68,30,204,9,4.49,24,34.5,118,7.03,4.2,11.63
+2016,Brandon Wilds,South Carolina,RB,4.94,73,32,220,10.25,4.54,21,36.5,118,7.08,4.33,11.75
+2016,Shad Thornton,North Carolina State,RB,4.6,72,30,217,9.75,4.75,12,31,116,6.85,4.21,11.53
+2016,Andy Janovich,Nebraska,FB,5.16,73,31.625,238,9.75,4.81,30,34,119,7.28,4.32,11.95
+2016,Quayvon Hicks,Georgia,FB,5.07,73,31.25,259,9.625,,,,,,,
+2016,Glenn Gronkowski,Kansas State,FB,5,74,30.75,239,9.5,4.71,17,33,120,7.1,4.45,11.95
+2016,Dan Vitale,Northwestern,FB,4.85,73,31.75,239,9.75,4.6,30,38.5,123,7.12,4.12,11.36
+2016,Soma Vainuku,USC,FB,4.8,71,32.75,246,9.5,4.68,26,32,108,,,
+2016,Laquon Treadwell,Ole Miss,WR,6.25,74,33.375,221,9.5,,12,33,117,,,
+2016,Will Fuller,Notre Dame,WR,6.13,72,30.75,186,8.25,4.32,10,33.5,126,6.93,4.27,11.44
+2016,Corey Coleman,Baylor,WR,6.1,71,30.25,194,9,,17,40.5,129,,,
+2016,Tyler Boyd,Pittsburgh,WR,5.9,73,32,197,9.75,4.58,11,34,119,6.9,4.35,
+2016,Charone Peake,Clemson,WR,5.88,74,34,209,9.25,4.45,12,35.5,122,6.96,4.46,11.69
+2016,Michael Thomas,Ohio State,WR,5.87,75,32.125,212,10.5,4.57,18,35,126,6.8,4.13,11.7
+2016,Josh Doctson,TCU,WR,5.83,74,31.875,202,9.875,4.5,14,41,131,6.84,4.08,11.06
+2016,Sterling Shepard,Oklahoma,WR,5.77,70,30.375,194,9.75,4.48,20,41,123,7,4.35,
+2016,Pharoh Cooper,South Carolina,WR,5.69,71,32.25,203,9.125,,15,31,115,,,
+2016,Demarcus Robinson,Florida,WR,5.65,73,33,203,9.5,4.59,,34.5,123,6.77,4.19,
+2016,Braxton Miller,Ohio State,WR,5.61,73,31.75,201,9.125,4.5,17,35,123,6.65,4.07,10.84
+2016,Rashard Higgins,Colorado State,WR,5.48,73,32.25,196,9.75,4.64,13,32,116,,,
+2016,Kenny Lawler,California,WR,5.46,74,33.375,203,10.5,4.64,,31,111,7.13,4.2,11.28
+2016,Bralon Addison,Oregon,WR,5.45,69,29.5,197,9.125,4.66,13,34.5,116,6.95,4.14,11.53
+2016,Aaron Burbridge,Michigan State,WR,5.44,72,31.625,206,8.25,4.56,20,30.5,115,7.22,4.31,11.9
+2016,De'Runnya Wilson,Mississippi State,WR,5.44,77,33.875,224,9.25,4.85,,28,113,,,
+2016,Jalin Marshall,Ohio State,WR,5.44,70,31.5,200,9.625,4.6,16,37.5,125,6.8,4.13,
+2016,Devon Cajuste,Stanford,WR,5.43,76,33,234,10.75,4.62,12,36,123,6.49,4.2,11.5
+2016,Tajae Sharpe,UMass,WR,5.42,74,32.25,194,8.375,4.55,11,33.5,114,,,
+2016,Nelson Spruce,Colorado,WR,5.38,73,30,206,10,4.69,12,35,114,7.09,4.2,11.9
+2016,Hunter Sharp,Utah State,WR,5.37,71,31.625,198,9.375,4.58,12,32.5,116,7.12,4.19,11.4
+2016,D'haquille Williams,Auburn,WR,5.36,74,32.5,229,9.25,4.72,14,30,121,7.43,4.47,
+2016,Leonte Carroo,Rutgers,WR,5.34,72,31.375,211,9.625,4.5,14,35.5,120,,,
+2016,Malcolm Mitchell,Georgia,WR,5.34,72,32.625,198,10.5,4.45,15,36,129,6.94,4.34,
+2016,Chris Moore,Cincinnati,WR,5.2,73,33.375,206,9.375,4.53,10,37,130,6.76,4.2,11.37
+2016,Keyarris Garrett,Tulsa,WR,5.19,75,34.5,220,9,4.53,14,36.5,128,7.3,4.33,11.72
+2016,Ricardo Louis,Auburn,WR,5.19,74,32.375,215,9.5,4.43,18,38,132,,,
+2016,DeMarcus Ayers,Houston,WR,5.17,69,31.25,182,9.25,4.72,,33,123,,,
+2016,Byron Marshall,Oregon,WR,5.16,69,30.25,201,9.5,,17,,,,,
+2016,D.J. Foster,Arizona State,WR,5.14,70,30.5,193,9.25,4.57,14,35.5,117,6.75,4.07,11.12
+2016,Alonzo Russell,Toledo,WR,5.12,76,33.875,206,9.5,4.54,12,29.5,112,7.18,4.33,11.88
+2016,Chris Brown,Notre Dame,WR,5.1,74,32.25,194,9,,,,,,,
+2016,Jordan Payton,UCLA,WR,5.08,73,32.5,207,10.125,4.47,,34.5,121,7.08,4.33,
+2016,Kolby Listenbee,TCU,WR,5.07,72,31.375,197,8.25,4.39,15,35.5,129,,,
+2016,Mekale McKay,Cincinnati,WR,5.06,76,30.625,207,9.5,4.55,12,35,123,7.08,4.63,11.89
+2016,Cayleb Jones,Arizona,WR,4.97,75,32.75,209,9.25,4.65,9,33.5,,6.99,4.14,11.46
+2016,Rashawn Scott,Miami,WR,4.92,73,31.375,199,9.375,,17,32.5,116,,,
+2016,Trevor Davis,California,WR,4.91,73,31,188,10,4.42,11,38.5,124,6.6,4.22,10.94
+2016,Cody Core,Ole Miss,WR,4.9,75,32,205,10.375,4.47,14,31.5,119,,,
+2016,Geronimo Allison,Illinois,WR,4.86,75,32.875,196,9.5,4.67,,33,127,7.4,4.28,11.54
+2016,Johnny Holton,Cincinnati,WR,4.85,73,32.875,190,9.875,4.54,8,31.5,123,,,
+2016,Marquez North,Tennessee,WR,4.83,74,33.375,223,10.25,4.48,17,35,123,6.9,4.13,
+2016,Roger Lewis,Bowling Green,WR,4.83,72,32,201,9.75,4.57,8,33.5,116,,,
+2016,Hunter Henry,Arkansas,TE,6.5,77,32.75,250,9.25,,13,,,,,
+2016,Austin Hooper,Stanford,TE,5.75,76,33.75,254,10.625,4.72,19,33,117,7,4.32,11.93
+2016,Nick Vannett,Ohio State,TE,5.7,78,34.25,257,10,,17,30.5,111,7.05,4.2,11.5
+2016,Thomas Duarte,UCLA,TE,5.65,74,33,231,10,4.72,12,33.5,118,6.97,4.24,
+2016,Tyler Higbee,Western Kentucky,TE,5.64,78,33.25,249,10.25,,,,,,,
+2016,Beau Sandland,Montana State,TE,5.39,76,34.25,253,10.125,4.74,23,35,124,7.1,4.33,11.75
+2016,Jerell Adams,South Carolina,TE,5.35,77,34.375,247,9.75,4.64,,32.5,117,7.05,4.31,11.52
+2016,Jake McGee,Florida,TE,5.3,77,32.375,250,9.625,,17,,,,,
+2016,Bryce Williams,East Carolina,TE,5.24,78,33.625,257,9.625,4.94,19,29.5,111,7.19,4.53,12.03
+2016,Ben Braunecker,Harvard,TE,5.23,75,32.75,250,9.5,4.73,20,35.5,121,6.9,4.2,11.32
+2016,David Morgan,Texas-San Antonio,TE,5.17,76,33.625,262,10.5,5.02,29,30,115,6.93,4.19,11.6
+2016,Ryan Malleck,Virginia Tech,TE,5.16,76,32.5,247,9.375,,18,34.5,121,7,4.33,
+2016,Stephen Anderson,California,TE,5,74,32,230,9.25,,16,38,119,,,
+2016,Temarrick Hemingway,South Carolina State,TE,5,77,34,244,10,4.71,18,30.5,115,6.88,4.31,11.5
+2016,David Grinnage,North Carolina State,TE,4.92,77,34.5,248,10.125,4.9,,29.5,106,,,
+2016,Ryan Kelly,Alabama,C,5.8,76,33.625,311,9.625,5.03,26,,103,7.58,4.59,
+2016,Max Tuerk,USC,C,5.62,77,32.5,298,10.75,,22,,,,,
+2016,Jack Allen,Michigan State,C,5.51,73,32.25,294,10.125,5.29,23,,101,7.9,4.73,
+2016,Graham Glasgow,Michigan,C,5.5,78,33.625,307,10.75,5.13,23,,106,7.63,4.63,
+2016,Evan Boehm,Missouri,C,5.42,74,31.625,309,10.25,5.33,24,,96,7.52,4.69,
+2016,Matt Skura,Duke,C,5.26,75,35.25,305,10,5.39,27,,103,7.89,4.76,
+2016,Austin Blythe,Iowa,C,5.24,74,30.25,291,9.375,5.36,29,,99,7.52,4.53,
+2016,Jake Brendel,UCLA,C,4.93,75,,286,,5.01,25,,108,7.31,4.27,
+2016,Cody Whitehair,Kansas State,OG,6.43,76,32.375,301,10.125,5.08,16,,110,7.32,4.58,
+2016,Germain Ifedi,Texas A&M,OG,5.89,78,36,324,10.75,5.27,24,,109,,4.75,
+2016,Joshua Garnett,Stanford,OG,5.89,76,33.875,312,10.125,5.32,30,,99,7.62,4.64,
+2016,Christian Westerman,Arizona State,OG,5.75,75,33.5,298,11.875,5.17,34,,98,7.69,4.71,
+2016,Rees Odhiambo,Boise State,OG,5.74,76,33.25,314,9.625,,23,,,,,
+2016,Nick Martin,Notre Dame,OG,5.66,76,32.5,299,9.75,5.22,28,,97,7.57,4.72,
+2016,Landon Turner,North Carolina,OG,5.65,76,32.875,330,10.375,5.58,30,,88,,,
+2016,Darrell Greene,San Diego State,OG,5.52,75,31.625,321,9.625,5.2,28,,98,8.07,4.98,
+2016,Isaac Seumalo,Oregon State,OG,5.44,76,33,303,9.875,5.19,,,105,7.4,4.52,
+2016,Vadal Alexander,LSU,OG,5.42,77,35.25,326,10.5,5.57,25,,95,8.04,4.9,
+2016,Joe Dahl,Washington State,OG,5.4,76,33.125,304,9.125,5.18,28,,109,7.64,4.77,
+2016,Sebastian Tretola,Arkansas,OG,5.39,76,31.5,314,10.375,5.45,22,,90,7.94,5.02,
+2016,Connor McGovern,Missouri,OG,5.37,76,32.875,306,10.375,5.11,33,,109,7.5,4.65,
+2016,Dominick Jackson,Alabama,OG,5.3,77,33,313,9.75,,20,,97,,,
+2016,Spencer Drango,Baylor,OG,5.2,78,33.75,315,9.5,5.27,30,,100,7.88,4.66,
+2016,Nila Kasitati,Oklahoma,OG,5.12,75,32,317,10.5,5.32,12,,107,8.3,4.83,
+2016,Joe Thuney,North Carolina State,OG,5.08,77,32.25,304,9.625,4.95,28,,110,7.47,4.54,
+2016,Alex Redmond,UCLA,OG,5.04,77,33.25,294,10.5,5.3,30,,111,7.75,4.9,
+2016,Joseph Cheek,Texas A&M,OG,5,78,32.75,295,9.25,,20,,,,,
+2016,Parker Ehinger,Cincinnati,OG,4.9,78,33,310,9.875,5.26,,,97,,,
+2016,Laremy Tunsil,Ole Miss,OT,7.72,77,34.25,310,10,,,,,,,
+2016,Ronnie Stanley,Notre Dame,OT,6.7,78,35.625,312,10.625,5.2,,,,8.03,4.9,
+2016,Jack Conklin,Michigan State,OT,6.4,78,35,308,10.375,5,25,,103,7.63,4.57,
+2016,Le'Raven Clark,Texas Tech,OT,6.05,77,36.125,316,11.875,5.16,18,,,,,
+2016,Taylor Decker,Ohio State,OT,5.88,79,33.75,310,10,5.23,20,,101,7.7,4.76,
+2016,Shon Coleman,Auburn,OT,5.84,77,35.125,307,10.625,,22,,,,,
+2016,Jason Spriggs,Indiana,OT,5.54,78,34.125,301,10.125,4.94,31,,115,7.7,4.44,
+2016,Jerald Hawkins,LSU,OT,5.5,78,34.25,305,9.625,5.23,23,,100,8.19,4.89,
+2016,Willie Beavers,Western Michigan,OT,5.48,76,33.5,324,9.5,5.28,20,,103,7.96,4.71,
+2016,Kyle Murphy,Stanford,OT,5.33,78,33.5,305,9.75,,23,,,,,
+2016,Joe Haeg,North Dakota State,OT,5.29,78,33.75,304,9.625,5.16,,,111,7.47,4.47,
+2016,Avery Young,Auburn,OT,5.24,77,33.75,328,10.5,5.39,,,,8.22,4.91,
+2016,Brandon Shell,South Carolina,OT,5.22,77,34.75,324,10.75,5.22,22,,112,,,
+2016,Caleb Benenoch,UCLA,OT,5.15,77,,305,,4.98,,,104,8.15,5.11,
+2016,Alex Lewis,Nebraska,OT,5.14,78,34,312,10,5.22,27,,100,7.94,4.72,
+2016,Pearce Slater,San Diego State,OT,5.11,79,,333,,5.42,17,,92,8.36,5.12,
+2016,John Theus,Georgia,OT,5.1,78,34.5,313,10.125,5.22,,,103,7.9,4.78,
+2016,Stephane Nembot,Colorado,OT,5.09,78,34.625,322,10.75,5.39,32,,103,8.55,5.15,
+2016,Denver Kirkland,Arkansas,OT,5.06,76,34.625,335,9.625,5.55,19,,94,8.72,5.06,
+2016,Fahn Cooper,Ole Miss,OT,5.05,76,34.75,303,10,5.17,19,,102,7.85,4.89,
+2016,Cole Toner,Harvard,OT,5,77,33.125,306,9.75,5.32,22,,103,7.88,4.59,
+2016,Dominique Robertson,West Georgia,OT,4.9,77,36,324,10.375,5.36,30,,100,8.42,4.83,
+2016,Tyler Johnstone,Oregon,OT,4.85,77,34,301,10.375,5.21,24,,104,7.31,4.6,
+2016,Tyler Marz,Wisconsin,OT,4.84,79,33.5,316,10,5.54,19,,99,8.38,4.97,
+2016,Halapoulivaati Vaitai,TCU,OT,4.76,78,34.25,320,10.625,5.26,23,,113,8.26,5,
+2016,Andrew Billings,Baylor,NT,6.44,73,33,311,10,5.05,31,27.5,113,8.05,4.82,
+2016,Austin Johnson,Penn State,NT,5.98,76,32.75,314,9.875,5.32,25,26,99,7.84,4.75,
+2016,Kenny Clark,UCLA,NT,5.89,75,32.125,314,10.5,5.06,29,28.5,102,,4.62,
+2016,D.J. Reader,Clemson,NT,5.25,75,33.625,327,9.5,5.33,30,29.5,99,7.9,4.71,
+2016,A'Shawn Robinson,Alabama,DT,6.59,76,34.5,307,10.5,5.2,22,26,106,7.8,4.74,
+2016,Robert Nkemdiche,Ole Miss,DT,6.32,75,33.875,294,10.75,4.87,28,35,116,,,
+2016,Chris Jones,Mississippi State,DT,6.2,78,34.5,310,10.75,5.03,26,24.5,106,7.44,4.62,
+2016,Jarran Reed,Alabama,DT,6.19,75,33.375,307,10.5,5.21,,31,104,7.77,4.75,
+2016,Sheldon Rankins,Louisville,DT,6.18,73,33.375,299,9.375,5.03,28,34.5,118,7.44,4.59,
+2016,Hassan Ridgeway,Texas,DT,6.17,75,33,303,9.375,5.02,24,32,113,8.28,4.82,
+2016,Vernon Butler,Louisiana Tech,DT,6.15,76,35.125,323,10.75,5.33,26,29.5,104,7.82,4.76,
+2016,Jonathan Bullard,Florida,DT,6.08,75,33.625,285,10,4.93,23,32,116,7.31,4.56,
+2016,Willie Henry,Michigan,DT,6.05,75,33.375,303,10.875,5,28,30.5,110,7.57,4.53,
+2016,Adolphus Washington,Ohio State,DT,5.6,75,34.5,301,9.875,5.17,21,27,99,8.06,4.79,
+2016,Maliek Collins,Nebraska,DT,5.6,74,33.125,311,9.5,5.03,25,29.5,109,7.53,4.52,
+2016,Matthew Ioannidis,Temple,DT,5.57,75,32.375,299,10.125,5.03,32,28,108,7.78,4.71,
+2016,Sheldon Day,Notre Dame,DT,5.55,73,32.625,293,9.625,5.07,21,30,102,7.44,4.5,
+2016,Adam Gotsis,Georgia Tech,DT,5.5,76,34.125,287,10.75,,,,,,,
+2016,Darius Latham,Indiana,DT,5.48,76,34.75,311,10,5.32,,29,100,7.76,4.63,
+2016,Anthony Zettel,Penn State,DT,5.32,76,31.125,277,9.5,4.81,28,30.5,109,7.63,4.39,
+2016,Luther Maddy,Virginia Tech,DT,5.24,72,33.25,287,9,,29,,,,,
+2016,Javon Hargrave,South Carolina State,DT,5.23,73,32,309,9.625,4.93,29,34.5,109,7.9,4.7,
+2016,Vincent Valentine,Nebraska,DT,5.22,76,33.125,329,9.625,5.19,17,29,110,8.03,4.59,
+2016,Nile Lawrence-Stample,Florida State,DT,5.2,73,32.75,320,9.875,,,,,,,
+2016,Lawrence Thomas,Michigan State,DT,5.17,75,33.25,286,10.125,4.98,,35,113,,,
+2016,Quinton Jefferson,Maryland,DT,5.13,76,33.375,291,8.875,4.95,24,29,,7.95,4.37,
+2016,Joel Heath,Michigan State,DT,5.11,77,34.5,293,10.5,5.02,26,33,113,7.44,4.52,
+2016,Antwaun Woods,USC,DT,5,72,31,318,9.625,,,,,,,
+2016,DeVaunte Sigler,Jacksonville State,DT,4.97,75,33.75,298,9.875,5.15,23,25,,7.9,4.97,
+2016,Chris Mayes,Georgia,DT,4.94,75,34,338,9,5.34,33,23.5,104,,5.13,
+2016,Connor Wujciak,Boston College,DT,4.82,74,33.25,291,10,4.91,22,34.5,117,7.32,4.27,
+2016,DeForest Buckner,Oregon,DE,7.32,79,34.375,291,11.75,5.05,,32,116,7.51,4.47,
+2016,Joey Bosa,Ohio State,DE,6.76,77,33.375,269,10.25,4.86,24,32,120,6.89,4.21,
+2016,Kevin Dodd,Clemson,DE,6.33,77,34,277,10,4.86,,,,,,
+2016,Shaq Lawson,Clemson,DE,6.21,75,32.75,269,10,4.7,,33,120,7.16,4.21,
+2016,Emmanuel Ogbah,Oklahoma State,DE,6.17,76,35.5,273,10,4.63,20,35.5,121,7.26,4.5,
+2016,Noah Spence,Eastern Kentucky,DE,6.11,74,33,251,10.75,4.8,25,35,121,7.21,4.35,
+2016,Shilique Calhoun,Michigan State,DE,5.74,76,34.25,251,9.875,4.82,23,35,115,6.97,4.25,
+2016,Carl Nassib,Penn State,DE,5.61,79,34.5,277,10.375,4.84,21,28.5,114,7.27,4.37,
+2016,Kamalei Correa,Boise State,DE,5.59,75,31.625,243,9.375,4.69,21,33,108,,,
+2016,Shawn Oakman,Baylor,DE,5.59,80,35.75,287,10.625,4.96,23,32,123,7.53,4.56,
+2016,Jihad Ward,Illinois,DE,5.57,77,33.875,297,9.375,5.11,20,25,111,7.38,4.63,
+2016,Bronson Kaufusi,BYU,DE,5.55,78,34.5,285,9.75,4.87,25,30,111,7.03,4.25,
+2016,Ronald Blair,Appalachian State,DE,5.53,74,34,284,10.25,5.15,32,30,113,7.95,4.53,
+2016,James Cowser,Southern Utah,DE,5.42,75,32.875,248,10.25,4.82,21,31.5,111,6.8,4.31,
+2016,Yannick Ngakoue,Maryland,DE,5.39,74,32.5,252,9.5,4.75,26,34.5,118,7.35,4.5,
+2016,Charles Tapper,Oklahoma,DE,5.34,75,34.375,271,11.5,4.59,23,34,119,,,
+2016,Alex McCalister,Florida,DE,5.32,78,36,239,9.375,4.8,,34.5,128,7.01,4,
+2016,Ron Thompson,Syracuse,DE,5.32,75,32.25,253,9.375,4.92,18,,,7.46,4.5,
+2016,Victor Ochi,Stony Brook,DE,5.32,73,33.75,246,10.125,4.86,,32,119,7.24,4.4,
+2016,Dadi Nicolas,Virginia Tech,DE,5.24,75,34.75,235,10.375,4.74,14,41,116,7.04,4.38,
+2016,Ufomba Kamalu,Miami,DE,5.21,77,35,295,10,5.01,26,25,106,7.32,4.58,
+2016,Dean Lowry,Northwestern,DE,5.2,78,31,296,9.375,4.87,30,32.5,114,7.26,4.38,
+2016,Jason Fanaika,Utah,DE,5.2,74,32.625,271,9.875,4.92,23,35.5,113,7.06,4.39,
+2016,Matt Judon,Grand Valley State,DE,5.2,75,33.875,275,9.5,4.73,30,35,109,7.67,4.52,
+2016,Sterling Bailey,Georgia,DE,5.18,76,33.375,285,10.25,5.23,20,30,111,7.46,4.73,
+2016,D.J. Pettway,Alabama,DE,5.16,74,32.25,265,9.5,4.99,17,28,108,7.74,4.69,
+2016,Drew Ott,Iowa,DE,5.14,76,32.25,273,9.625,,,,,,,
+2016,Mehdi Abdesmad,Boston College,DE,5.05,78,33.375,284,9.75,5.1,25,29.5,108,7.55,4.62,
+2016,Branden Jackson,Texas Tech,DE,4.87,76,33.375,273,10.25,5.06,20,31.5,113,7.4,4.77,
+2016,Giorgio Newberry,Florida State,DE,4.85,77,34,285,9.5,4.94,20,30,114,7.53,4.78,
+2016,Romeo Okwara,Notre Dame,DE,4.8,77,34.125,265,10.125,4.9,23,33,120,7.38,4.53,
+2016,Jimmy Bean,Oklahoma State,DE,4.77,77,33.5,264,9.75,,20,,,,,
+2016,Reggie Ragland,Alabama,ILB,6.51,73,32,247,9.875,4.72,,31.5,116,,4.28,
+2016,Scooby Wright III,Arizona,ILB,6.02,72,30.5,239,9.75,4.9,22,31,113,,4.47,
+2016,Dominique Alexander,Oklahoma,ILB,5.56,72,32.25,232,9,,17,28.5,104,,,
+2016,Terrance Smith,Florida State,ILB,5.39,75,32.75,235,9.875,4.77,19,34.5,120,,,
+2016,Antonio Morrison,Florida,ILB,5.37,73,30.375,232,9,,,,,,,
+2016,Nick Vigil,Utah State,ILB,5.37,74,32.375,239,10.25,4.72,,31.5,115,6.73,4,
+2016,Jared Norris,Utah,ILB,5.36,73,31.5,241,10.125,4.8,19,29.5,114,,4.52,
+2016,Joshua Perry,Ohio State,ILB,5.36,76,33.875,254,10.25,4.68,20,33.5,124,,,
+2016,Blake Martinez,Stanford,ILB,5.32,74,31.625,237,10.875,4.71,22,28.5,113,6.98,4.2,
+2016,Josh Forrest,Kentucky,ILB,5.28,75,33.5,249,9.5,4.91,11,30.5,118,,,
+2016,Raphael Kirby,Miami,ILB,5.13,72,31,236,9.875,,27,,,,,
+2016,Steven Daniels,Boston College,ILB,5.11,71,32.625,243,10,4.86,16,32,112,7.33,4.54,
+2016,Nick Kwiatkoski,West Virginia,ILB,5.1,74,31.75,243,9.5,4.73,19,32,120,7.16,4.22,
+2016,Cassanova McKinzy,Auburn,ILB,5.09,73,31.25,248,9.875,,21,,,,,
+2016,C.J. Johnson,Ole Miss,ILB,5.05,73,32.75,234,8.875,4.81,,,,,4.52,
+2016,Myles Jack,UCLA,OLB,7.5,73,33.625,245,10.25,,19,,,,,
+2016,Jaylon Smith,Notre Dame,OLB,7.16,74,33,223,9.5,,,,,,,
+2016,Leonard Floyd,Georgia,OLB,6.52,78,33.125,244,10.125,4.6,,39.5,127,,,
+2016,Su'a Cravens,USC,OLB,6.1,73,32.125,226,9.5,,16,27,114,,,
+2016,Darron Lee,Ohio State,OLB,6.07,73,33.25,232,9.75,4.47,17,35.5,133,7.12,4.2,
+2016,Kyler Fackrell,Utah State,OLB,5.94,77,33.25,245,10.125,4.72,15,34.5,121,,,
+2016,Jordan Jenkins,Georgia,OLB,5.91,75,34.25,259,11.25,4.8,16,36.5,121,,,
+2016,Kentrell Brothers,Missouri,OLB,5.82,72,30.75,245,9.75,4.89,19,28.5,110,6.99,4.11,
+2016,Deion Jones,LSU,OLB,5.56,73,32.375,222,9.25,4.59,,33,120,,,
+2016,B.J. Goodson,Clemson,OLB,5.42,73,33.25,242,10,4.69,30,34.5,118,7.05,4.51,
+2016,Eric Striker,Oklahoma,OLB,5.41,71,31.25,227,10.125,4.8,23,30,116,7.3,4.46,
+2016,Joe Schobert,Wisconsin,OLB,5.37,73,31.5,244,9.75,4.76,22,33.5,111,7.11,4.3,11.59
+2016,De'Vondre Campbell,Minnesota,OLB,5.29,76,33.625,232,9.625,4.58,16,34,116,,,
+2016,Steve Longa,Rutgers,OLB,5.27,73,32,241,9.75,4.78,19,32,116,7.5,4.56,12
+2016,Stephen Weatherly,Vanderbilt,OLB,5.25,76,34.5,267,10.25,4.61,23,31,117,,,
+2016,Tyler Matakevich,Temple,OLB,5.25,72,31.25,238,9.5,4.81,22,31,112,7.19,4.5,
+2016,Beniquez Brown,Mississippi State,OLB,5.23,73,31.375,229,9.125,4.77,18,31,110,7.07,4.28,
+2016,Kris Frost,Auburn,OLB,5.15,74,32.5,240,10.5,4.97,,29,113,,,
+2016,Devante Bond,Oklahoma,OLB,5.14,73,32.375,235,9.25,4.7,21,37.5,121,7.07,4.36,
+2016,Curt Maggitt,Tennessee,OLB,5.12,75,33,247,10.125,,,,,,,
+2016,Gionni Paul,Utah,OLB,5.11,70,31,231,8.125,5.05,22,31,113,,,
+2016,Travis Feeney,Washington,OLB,5.11,76,33.375,230,9.5,4.5,,40,130,7.2,4.42,11.71
+2016,Montese Overton,East Carolina,OLB,4.92,74,32.75,223,9.5,4.61,18,34,123,7.15,4.47,
+2016,Cory Littleton,Washington,OLB,4.83,75,33.375,238,10.125,4.73,,29.5,114,7.11,4.32,11.65
+2016,Jalen Ramsey,Florida State,CB,6.83,73,33.375,209,9.5,4.41,14,41.5,135,6.94,4.18,11.1
+2016,Vernon Hargreaves,Florida,CB,6.7,70,30.625,204,8.75,4.5,15,39,130,,3.98,
+2016,Mackensie Alexander,Clemson,CB,6.22,70,31.375,190,9.125,,11,,,,,
+2016,Rashard Robinson,LSU,CB,5.82,73,32.25,171,9,4.49,,35.5,121,,,
+2016,Harlan Miller,Southeastern Louisiana,CB,5.78,72,31.375,182,9.375,4.65,6,35.5,118,7.44,4.43,11.9
+2016,Artie Burns,Miami,CB,5.77,72,33.25,193,9.5,4.46,,31.5,,,,
+2016,Eli Apple,Ohio State,CB,5.68,73,31.375,199,9.375,4.4,13,,,,,
+2016,William Jackson III,Houston,CB,5.65,72,31.75,189,9.25,4.37,10,,116,,,
+2016,Kendall Fuller,Virginia Tech,CB,5.64,71,31.5,187,10,,15,,,,,
+2016,Will Redmond,Mississippi State,CB,5.6,71,30.375,182,9.125,,,,,,,
+2016,KeiVarae Russell,Notre Dame,CB,5.59,71,31.625,192,10,,17,,,,,
+2016,D.J. White,Georgia Tech,CB,5.56,71,31.5,193,9.25,4.49,17,33,132,7.18,4.33,
+2016,Zack Sanchez,Oklahoma,CB,5.54,71,31.375,185,9.375,,19,35.5,116,,,
+2016,Deiondre' Hall,Northern Iowa,CB,5.46,74,34.375,199,9.75,4.68,,37,127,7.07,4.06,
+2016,LeShaun Sims,Southern Utah,CB,5.45,72,31.625,203,8.125,4.53,11,37,120,7.08,4.19,11.18
+2016,Juston Burris,North Carolina State,CB,5.42,72,31.5,212,8.875,4.53,19,36.5,122,7.1,4.4,11.65
+2016,Cyrus Jones,Alabama,CB,5.4,70,31.375,197,9.125,4.49,10,33,116,6.71,4.21,
+2016,Sean Davis,Maryland,CB,5.4,73,31.375,201,9.5,4.46,21,37.5,126,6.64,3.97,11.53
+2016,Anthony Brown,Purdue,CB,5.38,71,31.75,192,8.25,4.35,19,35,115,7.03,4.19,11.19
+2016,Cleveland Wallace,San Jose State,CB,5.36,71,31.75,188,9.5,4.68,,35.5,123,,,
+2016,Daryl Worley,West Virginia,CB,5.36,73,33.375,204,10.25,4.64,14,35.5,123,6.98,4.15,10.87
+2016,Eric Murray,Minnesota,CB,5.31,71,31.75,199,9,4.49,15,39.5,124,7.08,4.05,11.19
+2016,Maurice Canady,Virginia,CB,5.3,73,31.625,193,9.125,4.49,16,38,124,7.03,4.09,
+2016,Brandon Williams,Texas A&M,CB,5.22,71,32.5,197,8.625,4.37,18,30.5,118,6.85,4.19,11.27
+2016,Jonathan Jones,Auburn,CB,5.21,69,30.25,186,8.75,4.33,19,36,123,7.25,4.25,
+2016,Kevin Peterson,Oklahoma State,CB,5.18,70,31.5,181,8.625,4.66,14,35.5,121,6.94,4.31,
+2016,Jimmy Pruitt,San Jose State,CB,5.16,72,30.375,198,9.375,4.73,19,32,117,,,
+2016,Kevon Seymour,USC,CB,5.15,71,30.75,186,9,4.39,12,35,124,,4.18,
+2016,Tavon Young,Temple,CB,5.15,69,30.625,183,9.125,4.46,9,34.5,118,6.8,3.93,11.26
+2016,Ryan Smith,North Carolina Central,CB,5.14,71,30.5,189,8.875,4.47,18,36,122,6.88,4.09,11.18
+2016,Ken Crawley,Colorado,CB,5.08,72,30.5,187,9,4.43,,36.5,119,,,
+2016,De'Vante Harris,Texas A&M,CB,5,71,30.625,176,8.125,4.56,,38.5,124,6.82,4.06,
+2016,Taveze Calhoun,Mississippi State,CB,4.96,72,31.875,192,9,4.58,14,33.5,,,,
+2016,Briean Boddy-Calhoun,Minnesota,CB,4.95,69,31,193,9.125,4.47,10,35,124,7.16,4.22,11.69
+2016,James Bradberry,Samford,CB,4.93,73,33.375,211,9.125,4.5,16,36,124,6.91,4.21,11.49
+2016,DeAndre Elliott,Colorado State,CB,4.88,73,32,188,9.625,4.55,,41,125,6.93,3.94,
+2016,Xavien Howard,Baylor,CB,,72,31.25,201,9.125,4.58,11,33,122,7.18,4.15,
+2016,Karl Joseph,West Virginia,S,5.75,70,32.125,205,9.75,,,,,,,
+2016,Darian Thompson,Boise State,S,5.52,74,30.375,208,9.125,4.69,12,32.5,118,7.26,4.33,
+2016,Jayron Kearse,Clemson,S,5.39,76,34.25,216,9.625,4.62,16,31.5,124,7.06,,
+2016,Deon Bush,Miami,S,5.27,72,30.875,199,9.25,4.64,17,36,123,,,
+2016,K.J. Dillon,West Virginia,S,5.24,72,31.625,210,9.625,4.53,11,,121,,,
+2016,Elijah Shumate,Notre Dame,S,5.12,72,31.125,216,9.75,4.58,18,33,119,,4.51,
+2016,Keanu Neal,Florida,SS,5.85,72,32.75,211,10.625,4.62,17,38,132,7.09,4.38,11.58
+2016,Miles Killebrew,Southern Utah,SS,5.67,74,32.125,217,9.5,4.65,22,38,127,6.93,4.18,11.02
+2016,Jeremy Cash,Duke,SS,5.65,72,32.375,212,10.5,,,,,,,
+2016,Kavon Frazier,Central Michigan,SS,5.37,72,32.25,217,9,,18,,,,,
+2016,Tevin Carter,Utah,SS,5.18,73,32,218,9.25,,19,,,,,
+2016,Jordan Lucas,Penn State,SS,5.11,72,30.125,201,10,,,,,,,
+2016,Lamarcus Brutus,Florida State,SS,4.96,72,31.5,206,8.75,4.76,14,33,114,7.08,4.33,12.25
+2016,Vonn Bell,Ohio State,FS,5.68,71,32.375,199,9.5,,16,,,,,
+2016,DeAndre Houston-Carson,William & Mary,FS,5.56,73,30.125,201,9.125,4.54,13,32.5,115,7.15,4.28,11.89
+2016,T.J. Green,Clemson,FS,5.41,74,32,209,9.625,4.34,13,35.5,129,,,
+2016,Jalen Mills,LSU,FS,5.39,72,31.125,191,9.125,4.61,16,37,123,6.86,4,11.53
+2016,Justin Simmons,Boston College,FS,5.36,74,32.625,202,9.625,4.61,16,40,126,6.58,3.85,10.84
+2016,Tyvis Powell,Ohio State,FS,5.35,75,32.75,211,9.5,4.46,15,34.5,120,7.03,4.25,11.63
+2016,Derrick Kindred,TCU,FS,5.11,70,31.25,207,9.375,4.5,,37.5,123,7.05,4.29,
+2016,Jordan Lomax,Iowa,FS,4.99,70,32,202,8.75,4.75,8,36,120,7.18,4.15,
+2016,A.J. Stamps,Kentucky,FS,4.88,71,31.375,193,9.625,4.79,15,33,115,7.17,4.25,11.56
+2016,Roberto Aguayo,Florida State,K,5.5,72,31.75,207,9.875,,,,,,,
+2016,Ka'imi Fairbairn,UCLA,K,5.4,71,31.25,183,9.25,,,,,,,
+2016,Brad Craddock,Maryland,K,5.07,72,31,186,8.25,,,,,,,
+2016,Jaden Oberkrom,TCU,K,4.95,74,31.75,186,8.5,,,,,,,
+2016,Marshall Koehn,Iowa,K,4.75,73,32.25,197,9.5,4.61,,,,,,
+2016,John Lunsford,Liberty,K,4.7,73,32.875,214,10.125,4.74,,,,,,
+2016,Drew Kaser,Texas A&M,P,5.4,74,31,212,9,,,,,,,
+2016,Nick O'Toole,West Virginia,P,5.12,75,32.5,219,9.75,,,,,,,
+2016,Tom Hackett,Utah,P,5.1,70,29.75,198,9.25,,,,,,,
+2016,Lac Edwards,Sam Houston State,P,4.88,76,32.375,209,9.375,,,,,,,
+2016,Will Monday,Duke,P,4.85,76,32.5,212,8.875,,,,,,,
+2016,Riley Dixon,Syracuse,P,4.82,76,32.25,221,9.625,,,,,,,
+2016,Jimmy Landes,Baylor,LS,4.7,73,30.375,240,9.625,5,,,110,7.05,4.38,
